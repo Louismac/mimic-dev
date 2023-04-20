@@ -1,0 +1,160 @@
+{
+  "data": [
+    {
+      "id": "a",
+      "type": "course",
+      "attributes": {
+        "title": "Course A: Intro to Stuff",
+        "description": "Course A is a deep dive into all the things you need to know about A",
+        "units": [
+          {
+            "id": "u1",
+            "course_id": "a",
+            "title": "unit 1: intro"
+          },
+          {
+            "id": "u2",
+            "course_id": "a",
+            "title": "unit 2: intro"
+          },
+          {
+            "id": "u3",
+            "course_id": "a",
+            "title": "unit 3: intro"
+          },
+          {
+            "id": "u4",
+            "course_id": "a",
+            "title": "unit 4: intro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "b",
+      "type": "course",
+      "attributes": {
+        "title": "Course B: Advanced Concepts",
+        "description": "Course B is an advanced survey of creative computing and machine learning",
+        "units": [
+          {
+            "id": "u5",
+            "course_id": "b",
+            "title": "unit 1: intro"
+          },
+          {
+            "id": "u6",
+            "course_id": "b",
+            "title": "unit 2: intro"
+          },
+          {
+            "id": "u7",
+            "course_id": "b",
+            "title": "unit 3: intro"
+          },
+          {
+            "id": "u8",
+            "course_id": "b",
+            "title": "unit 4: intro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c",
+      "type": "course",
+      "attributes": {
+        "title": "Course C: Critical Studies",
+        "description": "Course C is a philosophical investigation of the issues in computing and such",
+        "units": [
+          {
+            "id": "u6",
+            "course_id": "c",
+            "title": "unit 1: intro"
+          },
+          {
+            "id": "u7",
+            "course_id": "c",
+            "title": "unit 2: intro"
+          },
+          {
+            "id": "u8",
+            "course_id": "c",
+            "title": "unit 3: intro"
+          },
+          {
+            "id": "u9",
+            "course_id": "c",
+            "title": "unit 4: intro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tensorflow-js",
+      "type": "course",
+      "attributes": {
+        "title": "Next gen web apps with Machine Learning & TensorFlow.js",
+        "description": "An introduction to Machine Learning with a JavaScript specific lens using TensorFlow.js",
+        "summary": [
+          "This course is for anyone who has a basic working knowledge of JavaScript, HTML, CSS and is looking to get a practical working knowledge of Machine Learning using web technologies to bring superpowers into their web apps and sites. Maybe you are a Web Developer, Creative Technologist, or even Artist - this course is for you no matter what your professional career may be! Come take your first steps with Google's Web ML lead, Jason Mayes and jump on the AI / Machine Learning wave.",
+          "Dive into an introduction to Machine Learning with a JavaScript specific lens using TensorFlow.js. This course will start by breaking down high-level concepts you need to feel confident discussing such topics and then swiftly move to hands-on experience using the TensorFlow.js library with Machine Learning models directly in the web browser. Learn how to use pre-made models, write custom models, retrain existing ones via transfer learning,  or even reuse models from Python within the JavaScript ecosystem.",
+          "From image recognition to spam detection in text, we cover the essentials you can then expand upon for future web apps you can build for your next client or internal project and show you how to put key concepts into action through real code. Currently, 70% of professional developers use JS in production, and this course aims to up-skill such developers, no matter what their prior background with machine learning, to be able to have a good practical understanding of the various common areas of ML and how to apply that in production."
+        ],
+        "prerequisites": "Basic working knowledge of JavaScript, HTML, CSS. You should be comfortable with variables and their types, conditionals, loops, functions, objects, DOM manipulation, promises / asynchronous coding, debugging via the browser console log output.",
+        "poster-image": "course_images/ml_for_web_devs.jpg",
+        "units": [
+          {
+            "id": "chapter-1",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 1:  Course overview",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter-2",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 2:  Introduction to ML & TensorFlow.js",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter-3",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 3:  Using Pre-Made models",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter-4",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 4:  Writing custom models",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter_5",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 5:  Retraining existing models - Transfer Learning",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter-6",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 6:  Reusing existing models from Python",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          },
+          {
+            "id": "chapter-7",
+            "course_id": "tensorflow-js",
+            "title": "Chapter 7:  To the future and beyond",
+            "description": "This is a placeholder for a description!!!",
+            "author": "Google"
+          }
+        ]
+      }
+    }
+  ]
+}
